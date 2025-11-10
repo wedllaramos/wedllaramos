@@ -1,44 +1,54 @@
-
 <!-- Banner -->
 <p align="center">
-  https://i.imgur.com/7uYfXqP.png
+  <img src="https://i.imgur.com/7uYfXqP.png" alt="Wedlla Ramos Banner">
 </p>
-
 
 # 👋 Olá, eu sou Wedlla Ramos
 
 🎯 **Frontend Developer**  
 💻 Especialista em **HTML | CSS | JavaScript | React**  
-🚀 Apaixonada por criar interfaces modernas, responsivas e acessíveis.
+🚀 Criando interfaces modernas e responsivas.  
+📢 Aberta a oportunidades para colaborar em projetos inovadores.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor[CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-ript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blacks://img.shields.io/badge/React-20232A?style=for-the-badge&logo=reactr=61DAFB
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+</p>
 
 ---
 
 ## 📌 Sobre mim
 - 🌍 Localização: **Brasil**
 - 📫 Contato: **wedllaramos@example.com**
-- 🌐 Portfólio: https://vingardiumcaffe.com
+- 🌐 Portfólio: [vingardiumcaffe.com](https://vingardiumcaffe.com)
 
 ---
 
 ## 📂 Projetos em Destaque
-- https://github.com/wedllaramos/vingardium  
+- [Vingardium](https://github.com/wedllaramos/vingardium)  
   Plataforma para cafeteria com integração de pagamentos e design responsivo.
 
-- [**Landing Page Responsiva**](https://github.com/wedllaramos/landing-page)  
-ções modernas.
+- [Landing Page](https://github.com/wedllaramos/landing-page)  
+  Projeto com HTML, CSS e animações modernas.
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Wedlla's GitHub stats](https://github-readme-stats.vercel.app/api?_icons=true&theme=radical
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wedut=compact&theme=radical
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wedllaramos&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedllaramos&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ---
 
 ## 🌟 Vamos conectar!
+<p align="center">
+  <a href="https://linkedin.com/in/seu-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
