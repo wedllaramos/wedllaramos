@@ -1,3 +1,10 @@
+
+<!-- Banner -->
+<p align="center">
+  https://i.imgur.com/7uYfXqP.png
+</p>
+
+
 # 👋 Olá, eu sou Wedlla Ramos
 
 🎯 **Frontend Developer**  
