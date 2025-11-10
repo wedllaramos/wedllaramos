@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/7uYfXqP.png" alt="Wedlla Ramos Banner">
-</p>
 
 # 👋 Olá, eu sou Wedlla Ramos
 
