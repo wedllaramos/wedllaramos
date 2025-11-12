@@ -19,14 +19,13 @@
 ---
 
 ## 📌 Sobre mim
-- 🌍 Localização: **Brasil**
-- 📫 Contato: **wedllaramos@example.com**
-- 🌐 Portfólio: [vingardiumcaffe.com](https://vingardiumcaffe.com)
+- 🌍 Localização: **Brasil, Maceió - AL**
+- 📫 Contato: **wedllaoramos@gmail.com**
 
 ---
 
 ## 📂 Projetos em Destaque
-- [Vingardium](https://github.com/wedllaramos/vingardium)  
+- [Wingardium](https://github.com/wedllaramos/wingardium)  
   Plataforma para cafeteria com integração de pagamentos e design responsivo.
 
 - [Landing Page](https://github.com/wedllaramos/landing-page)  
